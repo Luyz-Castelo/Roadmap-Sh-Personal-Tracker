@@ -1,0 +1,9 @@
+.question {
+  display: flex;
+  margin-left: 1rem;
+  gap: 1rem;
+}
+
+.question * {
+  margin: 0;
+}
